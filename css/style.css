@@ -1,0 +1,95 @@
+
+body{
+	color: black;
+	font-family: 'Handlee', sans-serif;
+}
+
+a{
+	color: #EFC94C;
+	font-family: 'Handlee';
+	text-align: center;
+}
+
+h1{
+	text-align: center;
+	color: #EFC94C;
+	padding-top: 40px;
+}
+
+a:hover	{
+	color: orange;
+	text-decoration: underline;
+}
+
+.processus {
+	color: grey;
+	border-radius: 50%;
+	width: 180px;
+}
+
+.transport{
+	border-radius: 50%;
+	width: 80px;
+}
+
+#process{
+	color: white;
+	text-align: center;
+	background-color: #6E8994;
+	padding: 40px;
+}
+
+#espace{
+	padding: 10px;
+}
+
+#clientNeeds{
+
+	padding: 40px;
+	text-align: center;
+	background-color: #3E67A9;
+	font-size:150%;
+}
+
+#contact{
+	padding: 30px;
+	text-align: center;
+	font-size:110%;
+}
+
+#formulaire{
+padding: 30px;
+background-color: #6E8994;
+}
+
+#wrapper {
+	background-image: url("../image/croissant4.jpg");
+	height: 750px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-top: 25px;
+	text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+}
+
+#wrapper h1{
+font-size: 40px;
+}
+
+#wrapper h2{
+font-size: 25px;
+text-align: center;
+margin-bottom: 85px;
+color: white;
+text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
+}
+
+.spacer{
+	height: 3em;
+}
+
+.navbar-transparent{
+	background-color: rgba(252,180,70,0.6);
+	text-align: center;
+}
+
+
