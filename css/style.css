@@ -72,9 +72,9 @@ background-color: #6E8994;
 }
 
 #wrapper h1{
-font-size: 40px;
+font-size: 35px;
 padding: 20px;
-margin: 60px;
+margin: 6px;
 }
 
 #wrapper h2{
@@ -84,7 +84,7 @@ margin-bottom: 20px;
 color: white;
 text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
 padding: 50px;
-margin: 45px;
+margin: 15px;
 }
 
 .spacer{
