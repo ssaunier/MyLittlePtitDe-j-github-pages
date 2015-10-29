@@ -164,6 +164,7 @@
     <p>
      JE LAISSE MON EMAIL ET MON PORTABLE (nous ne vous spamerons pas) :
     </p>
+<!--
 
   <form class="form-inline">
     <div class="form-group">
@@ -174,8 +175,50 @@
       <label for="exampleInputEmail2">Numéro de téléphone</label>
       <input type="text" class="form-control" id="exampleInputName2" placeholder="06********">
     </div>
-    <button type="submit" class="btn btn-primary"> Informez moi du lancement de MyLittlePtitDéj !</button>
   </form>
+
+-->
+
+
+<!--
+<button type="submit" class="btn btn-primary" data-toggle="modal" data-target="#googleForm"> 
+  Informez moi du lancement de MyLittlePtitDéj !</button>
+-->
+
+
+<hr>
+<!-- Bouton -->
+<div class="text-center"> 
+  <a href="#" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#googleForm">
+    Informez moi du lancement de MyLittlePtitDéj !
+  </a>
+</div>
+<hr>
+
+
+<!-- Modal -->
+<div class="modal fade" id="googleForm" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">    
+          <span aria-hidden="true">&times;</span>
+          <span class="sr-only">Close</span>
+        </button>
+        <h4 class="modal-title" id="myModalLabel">
+          Dites-nous en plus !
+        </h4>
+      </div>
+      <div class="modal-body">
+        <iframe src="https://docs.google.com/a/edu.escpeurope.eu/forms/d/1CaOHf5HKSIk639AriJfz-B68dnny3dH6Gsuts2WemGc/viewform?embedded=true" width="100%" height="500" frameborder="0" marginheight="0" marginwidth="0">
+          Loading...
+        </iframe>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 
 </div>
 
