@@ -40,7 +40,7 @@ a:hover	{
 }
 
 #espace{
-	padding: 10px;
+	padding: 1px;
 }
 
 #clientNeeds{
@@ -73,22 +73,22 @@ background-color: #6E8994;
 
 #wrapper h1{
 font-size: 40px;
-padding: 30px;
-margin: 40px;
+padding: 1px;
+margin: 30px;
 }
 
 #wrapper h2{
 font-size: 25px;
 text-align: center;
-margin-bottom: 85px;
+margin-bottom: 20px;
 color: white;
 text-shadow: 2px 2px 5px rgba(0,0,0,0.5);
-padding: 30px;
+padding: 1px;
 margin: 30px;
 }
 
 .spacer{
-	height: 3em;
+	height: 2em;
 }
 
 .navbar-transparent{
